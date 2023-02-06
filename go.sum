@@ -1,0 +1,4 @@
+github.com/Junjie-Fan/tfidf v0.0.0-20230206111008-dab787f21c63 h1:ycIe4QvD0M3Iyvzw/lBrTCygvkfkLIgHoFk40qD4tLM=
+github.com/Junjie-Fan/tfidf v0.0.0-20230206111008-dab787f21c63/go.mod h1:qTKxzyI/mBZ1ci7EUjc731ISwmkXIXFr+RPUrRplI0Y=
+github.com/yanyiwu/gojieba v1.0.0 h1:0yAHD2rFffVXtjVG71cFyrhP8c/z7SGRAgNk4EJMIdY=
+github.com/yanyiwu/gojieba v1.0.0/go.mod h1:0AAj9tOG6WWXQ5FNffl4ruBy/hP7bHl2gs+YiDi1aYs=
