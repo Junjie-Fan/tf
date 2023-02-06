@@ -22,3 +22,8 @@ func (callpus *Callpus) AddCorpus(s string) {
 	defer callpus.rwtex.Unlock()
 	callpus.tf.AddDocs(s)
 }
+
+func (callpus *Callpus) TargetInit(i int) {
+	callpus.tf.InitTerms(i)
+	return
+}
